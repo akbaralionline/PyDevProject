@@ -1,0 +1,6 @@
+Key to debug
+
+F5 	Goes to the next step in your program. If the next step is a method / function this command will jump into the associated code.
+F6 	F6 will step over the call, e.g. it will call a method / function without entering the associated code.
+F7 	F7 will go to the caller of the method/ function. So this will leave the current code and go to the calling code.
+F8 	Use F8 to go to the next breakpoint. If no further breakpoint is encountered then the program will normally run. 
